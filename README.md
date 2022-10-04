@@ -22,14 +22,14 @@
 
 - 💻 db：![MongoDB](https://img.shields.io/badge/-MongoDB-blue?style=flat-circle&logo=MongoDB)
 
-- 🌱 learning：![GraphQL](https://img.shields.io/badge/-GraphQL-pink?style=flat-circle&logo=Graphql)![Mysql](https://img.shields.io/badge/-Mysql-white?style=flat-circle&logo=mysql)![TensorflowJS](https://img.shields.io/badge/-Mysql-white?style=flat-circle&logo=Tensorflowjs)
+- 🌱 learning：![GraphQL](https://img.shields.io/badge/-GraphQL-pink?style=flat-circle&logo=Graphql)![Mysql](https://img.shields.io/badge/-Mysql-white?style=flat-circle&logo=mysql)![TensorflowJS](https://img.shields.io/badge/-TensorflowJS-orange?style=flat-circle&logo=Tensorflowjs)
 
   
 
 > Language usage
 
 <div align="center">
-    <img height="200px" src="https://github-readme-stats-api-holic-x.vercel.app/api/top-langs/?username=holic-x&theme=gruvbox_light&layout=compact"/>
+    <img height="200px" src="https://github-readme-stats-api-holic-x.vercel.app/api/top-langs/?username=ScriptedPranav&theme=gruvbox_light&layout=compact"/>
 </div>
 
 
@@ -41,3 +41,20 @@
 - [Image Identifier](https://github.com/ScriptedPranav/Image_Identification)
 <!-- BLOG-POST-LIST:END -->
 
+# 👉Contact Me
+<p>
+ </br>
+
+
+<img hight="320" width="450" align="right" alt="GIF" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/93195.gif">
+
+
+If you want to reach out to me about anything, be it some doubt or just to hangout and talk or want to game together just ping me 😉.
+
+<a href="mailto:suspranav420@gmail.com">
+ <img align="left" alt="Gmail" width="130" hight="100" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/gmail.png" />
+</a>
+<a href="/">
+  <img align="left" alt="Linkedin" width="150" hight="100" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/linkedin.png" />
+
+ </p>
