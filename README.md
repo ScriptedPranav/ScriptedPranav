@@ -4,7 +4,7 @@
 - 💬 Debugger, Logician
 - ❤️ JavaScript and FPS games
 
-- 🚀 [Portfolio]() | [Resume](https://docs.google.com/document/d/1kZ_5MpRZA8aIeyvnAqJ1LCsfqwsZGIk3/edit?usp=sharing&ouid=114570265389254188818&rtpof=true&sd=true)
+- 🚀 [Portfolio]() && [Resume](https://docs.google.com/document/d/1kZ_5MpRZA8aIeyvnAqJ1LCsfqwsZGIk3/edit?usp=sharing&ouid=114570265389254188818&rtpof=true&sd=true)
 
 
 
