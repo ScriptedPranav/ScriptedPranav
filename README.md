@@ -1,6 +1,6 @@
 # 🚀 about
 
-- 📚 3rd Year Student, B.Tech at National Institute of Technology, Jalandhar ,IN
+- 📚 Pre-Final Year Student, B.Tech at National Institute of Technology, Jalandhar ,IN
 - 💬 Debugger, Logician
 - ❤️ JavaScript and FPS games
 
