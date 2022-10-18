@@ -52,7 +52,7 @@
 
 Interested in this user? Reach out to me , I'm always open to experimenting new things and working in a group
 
-<a href="mailto:suspranav420@gmail.com">
+<a href="mailto:scriptedpranav@gmail.com">
  <img align="left" alt="Gmail" width="130" hight="100" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/gmail.png" />
 </a>
 <a href="/">
