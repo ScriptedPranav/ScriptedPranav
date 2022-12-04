@@ -14,7 +14,7 @@
 
 - 🔭 back-end： ![NodeJS](https://img.shields.io/badge/-NodeJS-green?style=flat-circle&logo=Nodejs)![Express](https://img.shields.io/badge/-Express-green?style=flat-circle&logo=Express)
 
-- 👯 front-end： ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-circle&logo=javascript)![HTML5](https://img.shields.io/badge/-HTML5-yellow?style=flat-circle&logo=html5)![CSS3](https://img.shields.io/badge/-CSS3-yellow?style=flat-circle&logo=css3)![ReactJS](https://img.shields.io/badge/-ReactJS-blue?style=flat-circle&logo=ReactJs)![NextJS](https://img.shields.io/badge/-NextJS-blue?style=flat-circle&logo=NextJs)![Typescript](https://img.shields.io/badge/-Typescript-black?style=flat-circle&logo=Typescript)![Sass](https://img.shields.io/badge/-Sass-pink?style=flat-circle&logo=Sass)
+- 👯 front-end： ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-circle&logo=javascript)![HTML5](https://img.shields.io/badge/-HTML5-yellow?style=flat-circle&logo=html5)![CSS3](https://img.shields.io/badge/-CSS3-yellow?style=flat-circle&logo=css3)![ReactJs](https://img.shields.io/badge/-ReactJS-blue?style=flat-circle&logo=ReactJs)![NextJS](https://img.shields.io/badge/-NextJS-blue?style=flat-circle&logo=NextJs)![Typescript](https://img.shields.io/badge/-Typescript-black?style=flat-circle&logo=Typescript)![Sass](https://img.shields.io/badge/-Sass-pink?style=flat-circle&logo=Sass)
 
 - :hammer_and_wrench: use-tool：![VS Code](https://img.shields.io/badge/-VSCode-blue?style=flat-circle&logo=VSCode)![Markdown](https://img.shields.io/badge/-Markdown-black?style=flat-circle&logo=markdown)
 
