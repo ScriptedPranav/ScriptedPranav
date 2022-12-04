@@ -38,7 +38,7 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Video Sharing Platform](https://github.com/ScriptedPranav/See-you)
-- [Image Identifier](https://github.com/ScriptedPranav/Image_Identification)
+- [Social Media](https://github.com/ScriptedPranav/mern_konnekt_api-client)
 - [Progressive Weather Application](https://github.com/ScriptedPranav/WeatherApp)
 <!-- BLOG-POST-LIST:END -->
 
