@@ -55,7 +55,7 @@ Interested in this user? Reach out to me , I'm always open to experimenting new 
 <a href="mailto:scriptedpranav@gmail.com">
  <img align="left" alt="Gmail" width="130" hight="100" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/gmail.png" />
 </a>
-<a href="/">
+<a href="https://www.linkedin.com/in/pranav-sinha-6b2792256">
   <img align="left" alt="Linkedin" width="150" hight="100" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/linkedin.png" />
 
  </p>
