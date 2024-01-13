@@ -4,7 +4,7 @@
 - 💬 Debugger, Logician
 - ❤️ JavaScript and FPS games
 
-- 🚀 [Portfolio](https://portfolio-scriptedpranav.vercel.app/) && [Resume](https://drive.google.com/file/d/1GE_RqNWyOjJhUFcOJ2FCNh4P8cHr9xNM/view?usp=sharing)
+- 🚀 [Portfolio](https://portfolio-scriptedpranav.vercel.app/) && [Resume](https://drive.google.com/file/d/1OOQXrUwywXhrSwiH3PDg5Qv-7KfcrX8x/view?usp=sharing)
 
 
 
